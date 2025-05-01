@@ -1,0 +1,11 @@
+ConvLSTM Model Metrics:
+  mse: 0.014946199022233486
+  mae: 0.09610635787248611
+  correlation: 0.5253092174899471
+
+Transformer Model Metrics:
+  mse: 0.018354348838329315
+  mae: 0.09964844584465027
+  correlation: 0.5460754923091299
+
+ConvLSTM模型性能更好
